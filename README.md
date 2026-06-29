@@ -81,3 +81,4 @@ Source code is not included in the public release package.
 
 This software is distributed as a prebuilt binary package.  
 See `LICENSE.txt` for usage restrictions.
+# swarmdock-release
