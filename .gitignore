@@ -1,0 +1,25 @@
+# never publish source/build in release repo
+src/
+build/
+legacy/
+backup/
+*.cpp
+*.h
+*.hpp
+*.py
+CMakeLists.txt
+
+# runtime config
+env/device.conf
+env/device.sig
+env/swarmdock_env.sh
+
+# logs/data
+*.log
+logs/
+data/
+
+# editor
+*.swp
+*~
+.vscode/

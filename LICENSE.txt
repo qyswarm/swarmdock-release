@@ -1,0 +1,16 @@
+SwarmDock Binary Use License
+
+Copyright (c) 2026 Beijing Qunyu Technology Co., Ltd.
+
+This software is provided as a prebuilt binary package.
+
+You are allowed to:
+- download and use the software for evaluation and authorized use.
+
+You are not allowed to:
+- reverse engineer, decompile, disassemble, or attempt to derive the source code;
+- redistribute, resell, sublicense, or repackage the software without written permission;
+- remove copyright, trademark, license, or attribution notices;
+- use the software outside the authorized scenario or device scope.
+
+All rights reserved.
