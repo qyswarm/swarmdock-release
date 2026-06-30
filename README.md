@@ -71,6 +71,24 @@ swarmdock --auto services --canon
 swarmdock --auto params --canon
 ```
 
+
+## Quick Demo
+
+The following screenshot shows a basic SwarmDock ver0.2 installation and runtime check.
+
+It demonstrates:
+
+- starting `roscore`
+- extracting the prebuilt release package
+- running `install.sh`
+- adding SwarmDock to `PATH`
+- checking host information
+- listing ROS topics
+
+![SwarmDock ver0.2 install demo](docs/images/swarmdock-v0.2-install-demo.png)
+
+
+
 ## Notes
 
 This public repository provides prebuilt binary releases only.
